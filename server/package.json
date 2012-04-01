@@ -1,0 +1,19 @@
+{
+  "author": "Jeffrey Iacono <jeff.iacono@gmail.com> (http://elegantbuild.com)",
+  "name": "companion-cube",
+  "description": "Area and state regulations do not allow the Companion Cube to remain here, alone and companionless.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jeffreyiacono/portal",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jeffreyiacono/portal.git"
+  },
+  "engines": {
+    "node": "~0.6.14"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "vows": "> 0.6.0"
+  }
+}
