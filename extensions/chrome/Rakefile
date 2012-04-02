@@ -8,3 +8,8 @@ rescue LoadError
     abort "Jasmine is not available. In order to run jasmine, you must: (sudo) gem install jasmine"
   end
 end
+
+desc "Run Cucumber features"
+task :cucumber do
+  exec "node_modules/.bin/cucumber.js"
+end
