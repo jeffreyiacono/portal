@@ -21,7 +21,7 @@
   "background": {},
   "homepage_url"           : "https://github.com/jeffreyiacono/portal",
   "minimum_chrome_version" : "18.0",
-  "permissions"            : [],
+  "permissions"            : ["tabs"],
   "requirements"           : {},
   "update_url"             : "http://nonexistant-page.html"
 }
